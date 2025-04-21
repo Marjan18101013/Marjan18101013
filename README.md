@@ -21,6 +21,7 @@ I'm a Computer Science graduate from the University of Asia Pacific, passionate 
 
 - 🧠 **Historical Video Colorization using Deep Learning** (B.Sc Thesis)  
 *CNN-based autoencoder model with InceptionResNetV2 for automatic colorization of grayscale Bangladeshi documentary footage*
+https://github.com/Marjan18101013/historical-colorization
 
 - 🐾 **Pet Care Management System**  
 *Full-stack Django web app for pet care services*  
