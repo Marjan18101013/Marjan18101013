@@ -19,11 +19,15 @@ I'm a Computer Science graduate from the University of Asia Pacific, passionate 
 
 ### 💼 Notable Projects
 
+- 🧠 **Historical Video Colorization using Deep Learning** (B.Sc Thesis)
+   *CNN-based autoencoder model with InceptionResNetV2 for automatic colorization of grayscale Bangladeshi documentary footage*
+
+- 🐾 **Pet Care Management System**
+  *Full-stack Django web app for pet care services*
+  https://github.com/Marjan18101013/HelloPaw
+  
 - 🛡️ **Face Mask Detection**  
   *Python, Google Colab, OpenCV, MobileNet*
-
-- 🐾 **Pet Care Management System**  
-  *Full-stack Django web app for pet care services*
 
 - 🛒 **Online Store Management System**  
   *E-commerce backend using Python & Django*
