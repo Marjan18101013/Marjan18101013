@@ -19,11 +19,11 @@ I'm a Computer Science graduate from the University of Asia Pacific, passionate 
 
 ### 💼 Notable Projects
 
-- 🧠 **Historical Video Colorization using Deep Learning** (B.Sc Thesis)
-   *CNN-based autoencoder model with InceptionResNetV2 for automatic colorization of grayscale Bangladeshi documentary footage*
+- 🧠 **Historical Video Colorization using Deep Learning** (B.Sc Thesis)  
+*CNN-based autoencoder model with InceptionResNetV2 for automatic colorization of grayscale Bangladeshi documentary footage*
 
-- 🐾 **Pet Care Management System**
-  *Full-stack Django web app for pet care services*
+- 🐾 **Pet Care Management System**  
+*Full-stack Django web app for pet care services*  
   https://github.com/Marjan18101013/HelloPaw
   
 - 🛡️ **Face Mask Detection**  
@@ -52,7 +52,7 @@ I'm a Computer Science graduate from the University of Asia Pacific, passionate 
 ### 🌐 Let's Connect
 
 - 📧 **Email:** marjaniashfe@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/marjan-ashfi-553830133](https://www.linkedin.com/in/marjan-ashfi-553830133/)  
+- 💼 **LinkedIn:** [linkedin.com/in/marjan-ashfi-553830133](www.linkedin.com/in/marjan-ashfi-553830133)  
 - 🧠 **GitHub:** [github.com/Marjan18101013](https://github.com/Marjan18101013)
 
 ---
